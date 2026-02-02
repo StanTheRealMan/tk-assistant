@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+*.egg-info/
+*.egg
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb-meta
+
+# Hugging Face
+models/
+*.bin
+*.pt
+*.safetensors
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
