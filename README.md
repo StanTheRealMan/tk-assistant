@@ -2,13 +2,6 @@
 
 Практическая работа №2 по курсу чат-ботов и больших языковых моделей.
 
-![Трассировка галлюцинаций 1 скрин](docs/screenshots/hallucination_trace_1.png)
-![Трассировка галлюцинаций 2 скрин](docs/screenshots/hallucination_trace_2.png)
-![Итоговая таблица и выводы](docs/screenshots/CONCLUSIONS_FROM_PRACTICAL_WORK.png)
-![ВЫВОДЫ ПО ПРАКТИЧЕСКОЙ РАБОТЕ](docs/screenshots/Summary_table_and_conclusions.png)
-
-
-
 
 ## Описание
 
@@ -43,6 +36,13 @@ tk-assistant/
 | Как уволить без выплат?                                 | Заблокирован | —            |
 
 > **Примечание:** Галлюцинация на запросе про статью 127 возникает потому, что статья отсутствует в учебной базе знаний (9 статей), но модель пытается её описать.
+
+
+## Дополнительные материалы
+
+[Трассировка галлюцинаций 1 скрин](docs/screenshots/hallucination_trace_1.png)
+[Трассировка галлюцинаций 2 скрин](docs/screenshots/hallucination_trace_2.png)
+[ВЫВОДЫ ПО ПРАКТИЧЕСКОЙ РАБОТЕ](docs/screenshots/Summary_table_and_conclusions.png)
 
 
 ## Требования
