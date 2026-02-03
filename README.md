@@ -40,9 +40,9 @@ tk-assistant/
 
 ## Дополнительные материалы
 
-[Трассировка галлюцинаций 1 скрин](docs/screenshots/hallucination_trace_1.png)
-[Трассировка галлюцинаций 2 скрин](docs/screenshots/hallucination_trace_2.png)
-[ВЫВОДЫ ПО ПРАКТИЧЕСКОЙ РАБОТЕ](docs/screenshots/Summary_table_and_conclusions.png)
+- [Скриншот: Трассировка галлюцинаций 1](docs/screenshots/hallucination_trace_1.png)
+- [Скриншот: Трассировка галлюцинаций 2](docs/screenshots/hallucination_trace_2.png)
+- [Скриншот: Выводы по практической работе](docs/screenshots/Summary_table_and_conclusions.png)
 
 
 ## Требования
